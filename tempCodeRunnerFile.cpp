@@ -1,0 +1,1 @@
+if (LOWORD(wParam) >= 1 && LOWORD(wParam) <= 4) {
